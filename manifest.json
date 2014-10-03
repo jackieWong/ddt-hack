@@ -1,0 +1,11 @@
+{
+	"manifest_version":2,
+	"name":"ddt-hack",
+	"description":"ddt helper for test distance between player and enemies",
+	"version":"1.0",
+	"icons":{"16": "ddt-hack.png"},
+	"browser_action":{
+		"default_icon":"ddt-hack.png"
+	}
+}
+	
